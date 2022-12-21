@@ -1,0 +1,11 @@
+package factorymethod;
+
+public class PushNotification implements Notification {
+
+	public void notifyUser() {
+		// TODO Auto-generated method stub
+		System.out.println("Sending Push Ntotiication");
+		
+	}
+
+}
